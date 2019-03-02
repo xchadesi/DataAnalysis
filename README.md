@@ -1,5 +1,4 @@
 # SensorDataAnalysis
-数据分析项目1:传感器数据分析
 
 第一部分
 目标
